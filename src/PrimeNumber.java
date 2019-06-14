@@ -1,3 +1,11 @@
+/*
+
+Write an application that will show a list of numbers and indicate whether or
+not they are prime. There are two ways that you can achieve this.
+Option 1:The user will have to input a number, and you will that number.
+You will check if that number is prime and indicate that to the user.
+ */
+
 import java.util.Scanner;
 
 public class PrimeNumber {
